@@ -12,3 +12,5 @@ Git has a mutable index called stage.
 git是管理修改而不是文件
 
 又加了一行
+
+hello world
